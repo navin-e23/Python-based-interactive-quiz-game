@@ -1,8 +1,8 @@
 # Python Based Quiz Game 
- This Python repository houses a dynamic quiz game, developed as the inaugural task during the first week of My Motion Cut internship. The project features an interactive menu-driven interface facilitating various functionalities
+ This Python repository houses a dynamic quiz game, developed as the inaugural task during the first week of My gwing internship. The project features an interactive menu-driven interface facilitating various functionalities
 
- Quiz Game Project - Motion Cut Internship Week 1
-Welcome to the Quiz Game project developed during the first week of the Motion Cut internship program. This Python-based quiz game provides an interactive platform for users to engage in quiz sessions, contribute new questions, and modify existing ones. Below, you'll find an overview of the project and instructions on how to run and utilize its functionalities.
+ Quiz Game Project - gwing Internship Week 1
+Welcome to the Quiz Game project developed during the first week of the gwing internship program. This Python-based quiz game provides an interactive platform for users to engage in quiz sessions, contribute new questions, and modify existing ones. Below, you'll find an overview of the project and instructions on how to run and utilize its functionalities.
 
 Features
 Quiz Gameplay: Users can participate in a quiz session where they are presented with questions, select answers, and receive immediate feedback on correctness.
@@ -45,5 +45,3 @@ LICENSE: The license file for the project.
 Contributions
 Contributions to the Quiz Game project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-License
-This project is license free.
